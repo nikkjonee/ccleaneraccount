@@ -11,7 +11,7 @@ How to Access Your CCleaner Account Securely 🔐
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/ccleaner-login-account
+   :target: https://www.ccleaneraccount.com/login/
 ____________
 
 In today’s digital world, ensuring secure access to your online accounts is more important than ever. Whether it’s your social media, email, or software tools, protecting your credentials is crucial. This article focuses on how to access your CCleaner account securely, ensuring your data and preferences are always protected.
